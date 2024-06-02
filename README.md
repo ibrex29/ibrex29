@@ -10,11 +10,9 @@ I'm a Data Scientist who love working as part of a team and meeting deadlines, e
 
 
 
-- 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
+- 👯 I’m looking to collaborate on Data science, Machine Learning, and backend projects                          
 - 💬 Feel free to ask me anything about tech-related topics, and I'm happy to help!
-- 📫 You can reach me out on LinkIdn 
-[https://www.linkedin.com/in/ibrex29](https://www.linkedin.com/in/ibrex29)   
-or through my email  (ibrex29@gmail.com)
+- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/ibrex29 or via email at ibrex29@gmail.com
 - 😆 Fun fact: I'm a coding aficionado who loves diving into new projects and pushing the boundaries of what's possible in tech!
 I Love Coding!!
 
@@ -22,9 +20,10 @@ I Love Coding!!
 
 ### 🔭 I’m currently working on:                    
 
-- NippyEats mobile app (React Native)                  
-- My old projects
-- LearnSmart Mobile (React Native | Typescript)                       
+- Tech Atlas RESTful APIs (NestJS | PostgreSQL)               
+- Journal Management System (WordPress)
+- Nigeria Startup Portal (NestJS as backend)
+- Kidney Detection System (Python)                     
 
 ### 🌱 I’m currently learning
 
