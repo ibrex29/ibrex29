@@ -35,10 +35,16 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 - SLU Journal of Science and Technology: [SLUJST](https://slujst.com.ng)
 - Jigawa Journal of Social and Management Science: [JiJOSAMS](https://jijosams.com.ng)
 
+### 🎯 Goals for 2024
+
+- Contribute to three major open-source projects
+- Complete a certification in advanced machine learning
+- Develop and deploy a full-stack application using modern technologies
+- Mentor at least two junior developers
+
 ### 📈 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrex29&theme=react-dark)
-
+[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrex29&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 🔨 Languages and Tools:
 
