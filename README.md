@@ -11,11 +11,11 @@ I'm a Data Scientist who love working as part of a team and meeting deadlines, e
 
 
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
-- 💬 Ask me anything about tech related and i'm happy to help
+- 💬 Feel free to ask me anything about tech-related topics, and I'm happy to help!
 - 📫 You can reach me out on LinkIdn 
 [https://www.linkedin.com/in/ibrex29](https://www.linkedin.com/in/ibrex29)   
 or through my email  (ibrex29@gmail.com)
-- 😆 Fun fact: When i drink coffee i code alot!!   
+- 😆 Fun fact: I'm a coding aficionado who loves diving into new projects and pushing the boundaries of what's possible in tech!
 I Love Coding!!
 
 ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)      
