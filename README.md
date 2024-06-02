@@ -1,4 +1,5 @@
-![Ibrahim Muhammad](profile.jpg)
+<img src="profile.jpg" alt="Ibrahim Muhammad" width="200"/>
+
 
 ### Hi! 👋 I'm Ibrahim (Ibrex29) 
 
