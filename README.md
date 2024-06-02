@@ -22,16 +22,22 @@ I Love Coding!!
 
 - Tech Atlas RESTful APIs (NestJS | PostgreSQL)               
 - Journal Management System (WordPress)
-- Nigeria Startup Portal (NestJS as backend)
-- Kidney Detection System (Python)                     
+- Nigeria Startup Portal (NestJS)
+- Kidney Detection System (Python ML)                     
 
 ### 🌱 I’m currently learning
 
-- Software Engineering best practices
-- Design Systems
-- Data structures and Algorithm
+- Deep learning 
+- System optimization 
+- Transfer learning 
+- Data structures and Algorithms
 
-#### 📝 Latest publication
+#### 📝 Latest Deployment 
+
+- Nigeria Startup Portal: [NSP](https://portal.startup.ng)
+- SLU Journal of Science and Technology: [SLUJST](https://slujst.com.ng)
+- Jigawa Journal of Social and Management Science: [JiJOOSAMS](https://jijoosams.com.ng)
+
 
 
 #### 🔨 Languages and tools
