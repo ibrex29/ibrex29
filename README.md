@@ -41,11 +41,7 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 - Complete a certification in advanced machine learning
 - Develop and deploy a full-stack application using modern technologies
 - Mentor at least two junior developers
-
-### 📈 GitHub Activity
-
-[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrex29&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  
 #### 🔨 Languages and Tools:
 
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg)
@@ -54,3 +50,9 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg)
 ![](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg)
+
+
+### 📈 GitHub Activity
+
+[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrex29&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
