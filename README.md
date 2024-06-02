@@ -33,7 +33,12 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 
 - Nigeria Startup Portal: [NSP](https://portal.startup.ng)
 - SLU Journal of Science and Technology: [SLUJST](https://slujst.com.ng)
-- Jigawa Journal of Social and Management Science: [JiJOOSAMS](https://jijoosams.com.ng)
+- Jigawa Journal of Social and Management Science: [JiJOSAMS](https://jijosams.com.ng)
+
+### 📈 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrex29&theme=react-dark)
+
 
 #### 🔨 Languages and Tools:
 
