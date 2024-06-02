@@ -1,3 +1,5 @@
+![Ibrahim Muhammad](profile.jpg)
+
 ### Hi! 👋 I'm Ibrahim (Ibrex29) 
 
 I'm a Data Scientist who loves working as part of a team and meeting deadlines. I'm excited to collaborate and contribute to open-source projects.
