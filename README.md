@@ -13,7 +13,7 @@ I'm a Data Scientist who love working as part of a team and meeting deadlines, e
 - 👯 I’m looking to collaborate on Blockchain technology and web 3.0 projects                           
 - 💬 Ask me anything about tech related and i'm happy to help
 - 📫 You can reach me out on LinkIdn 
-[https://www.linkedin.com/in/ibrex29](https://www.linkedin.com/in/ahmad-aliyu-b13345178)   
+[https://www.linkedin.com/in/ibrex29](https://www.linkedin.com/in/ibrex29)   
 or through my email  (ibrex29@gmail.com)
 - 😆 Fun fact: When i drink coffee i code alot!!   
 I Love Coding!!
