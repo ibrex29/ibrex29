@@ -34,7 +34,7 @@ I Love Coding!!
 
 #### 📝 Latest publication
 
-![https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86](https://medium.com/@aliyuahmad1996/intelligent-tourist-information-system-936ae9462d86)
+![https://medium.com/@ibrex29/intelligent-tourist-information-system-936ae9462d86](https://medium.com/@ibrex29/intelligent-tourist-information-system-936ae9462d86)
 
 #### 🔨 Languages and tools
 
