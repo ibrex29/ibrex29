@@ -54,5 +54,4 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 
 ### 📈 GitHub Activity
 
-[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrex29&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrex29&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
