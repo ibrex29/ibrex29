@@ -35,6 +35,11 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 - SLU Journal of Science and Technology: [SLUJST](https://slujst.com.ng)
 - Jigawa Journal of Social and Management Science: [JiJOSAMS](https://jijosams.com.ng)
 
+### 🤝 Community Involvement
+
+- Co-organizer of the local Data Science Meetup
+
+
 ### 🎯 Goals for 2024
 
 - Contribute to three major open-source projects
