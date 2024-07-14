@@ -21,7 +21,7 @@ I'm a Data Scientist who loves working as part of a team and meeting deadlines. 
 ### 🔭 I’m currently working on:
 
 - Tech Atlas RESTful APIs (NestJS | PostgreSQL)               
-- Journal Management System (WordPress)
+- Journal Management System (NestJS | PostgreSQL)
 - Nigeria Startup Portal (NestJS)
 - Kidney Detection System (Python ML)
 
